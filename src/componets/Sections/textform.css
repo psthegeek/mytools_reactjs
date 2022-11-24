@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Marhey:wght@300&family=Rubik+Distressed&display=swap');
+.textform h1{
+    font-family: 'Marhey', cursive;
+    color:black;
+}
+.textform{
+    Width:50%;
+    height:400px;
+    /* padding: 5rem 0 0 5rem; */
+    /* margin-left: 10rem; */
+    text-align: center;    
+}
+section textarea{
+    background-color: transparent;
+    width:85%;
+    height:50%;
+}
+.btn{
+    border: none;
+}
+.btn Button{
+    margin: 0 3px 0 2px;
+
+}
+
+/* Random String Generator CSS */
+
+#random-text-user
+{
+    width: 40%;
+    height:30%;
+    background-color: transparent;
+}
+
+
